@@ -17,44 +17,46 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
+            "image_link": "https://iili.io/JJp2Eib.webp",
+            "title": "Privatka standoff 2 0.11.0 v2 1",
+            "text_Content_": "Standoff 2 Private 0.11.0 v2 is a third-party modification for the game Standoff 2 and is not officially supported or affiliated with Standoff 2 or its developers. We want to remind users of the need for caution when using mods with any game.
+"
+        },
+        {
+            "image_link": "https://iili.io/JJp2Mfj.jpg",
+            "title": "Privatka standoff 2 0.11.0 v2 2",
+            "text_Content_": "Are you ready to elevate your Standoff 2 adventure to a new level? Look no further! Our latest version, Standoff 2 Private 0.11.0 v2, is here to take your gaming experience to new heights. In version 2, we've added even more excitement, features, and security to ensure you dominate the game like never before.
+"
+        },
+        {
+            "image_link": "https://iili.io/JJp2Mfj.jpg",
+            "title": "Privatka standoff 2 0.11.0 v2 3",
+            "text_Content_": "Enhanced 0.11.0 Standoff 2: Immerse yourself in the thrilling world of Standoff 2 with the latest 0.11.0 update, packed with new content and improved gameplay."
+        },
+        {
+            "image_link": "https://iili.io/JJp21Wu.webp",
+            "title": "Privatka standoff 2 0.11.0 v2 4",
+            "text_Content_": "Exclusive Mod: Standoff 2 Private 0.11.0 v2 includes an exclusive mod that gives you an advantage over your opponents. Crush your enemies and achieve victory effortlessly."
+        },
+        {
+            "image_link": "https://iili.io/JJp21Wu.webp",
+            "title": "Privatka standoff 2 0.11.0 v2 5",
+            "text_Content_": "User-Friendly Mod Menu: Control your gaming experience with our easy-to-use mod menu. Customize your gameplay, toggle features, and conquer the battlefield with ease."
+        },
+        {
+            "image_link": "https://iili.io/JJp21Wu.webp",
+            "title": "Privatka standoff 2 0.11.0 v2 6",
             "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp21Wu.webp",
+            "title": "Privatka standoff 2 0.11.0 v2 7",
+            "text_Content_": "Standoff 2 Private 0.11.0 v2 is a third-party modification for Standoff 2 and is not officially approved or associated with Standoff 2 or its developers. We want to remind users to exercise caution when using mods in any game."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
-        },
-        {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJp21Wu.webp",
+            "title": "Privatka standoff 2 0.11.0 v2 8",
+            "text_Content_": "Version 1 and Version 2: Choose between two versions to suit your preferences. Whether you prefer the classic feel of Version 1 or the advanced features of Version 2, we have everything you need."
         }
     ]
 }
